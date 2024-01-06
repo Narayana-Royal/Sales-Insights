@@ -5,11 +5,11 @@ The SQL queries which are performed in order to get insights from the database t
 
 1.Query used to Show all customer records
 
-### SELECT * FROM customers;
+> SELECT * FROM customers;
 
 2.Query used to Show total number of customers
 
-SELECT count(*) FROM customers;
+> SELECT count(*) FROM customers;
 
 3.Query used to Show transactions for Chennai market (market code for chennai is Mark001
 
