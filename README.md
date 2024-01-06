@@ -1,7 +1,7 @@
 # Sales-Insights
 SQL and Tableau
 
-The ***SQL queries*** which are performed in order to get insights from the database tables are - 
+The **SQL queries** which are performed in order to get insights from the database tables are - 
 
 1. Query used to Show all customer records
 
