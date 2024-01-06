@@ -1,5 +1,5 @@
 # Sales-Insights
-## Files Uploaded = {db_dump.sql = database of tables}
+## Files : db_dump.sql - database of tables
 ## SQL 
 
 The **SQL queries** which are performed in order to get insights from the database tables are - 
