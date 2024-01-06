@@ -62,3 +62,12 @@ L - Loading the Transformed data into Tableau for dashboarding.
 <img width="800" height="500" alt="Screenshot 2024-01-06 at 3 59 04 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/398bea4b-dfcc-41d3-9fc2-b8e3a3f7198b">
 
 #### Step2: Transforming
+
+> Removing the null value records and changing the sales amount range which was from -1 to 1 (i.e because amount cannot be in negative).
+
+<img width="800" height="500" alt="Screenshot 2024-01-06 at 4 29 08 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/10c3e1a4-d464-4c81-bdfb-dba4158ad213">
+
+> Also changed the USD sales amount to INR amount so that it maintains the same currency.
+
+<img width="800" height="500" alt="Screenshot 2024-01-06 at 4 28 55 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/a78b584f-de4c-422a-a76d-35a6c9aa3a55">
+
