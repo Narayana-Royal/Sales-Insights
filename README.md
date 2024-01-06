@@ -41,7 +41,8 @@ The **SQL queries** which are performed in order to get insights from the databa
 where year=2020 and market_code="Mark001";
 
 Few sample screenshots of the queries: 
-<img width="1440" alt="Screenshot 2024-01-06 at 2 49 05 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/3a233c4d-5d9e-478f-9998-573876ab552f">
+
+<img width="800" alt="Screenshot 2024-01-06 at 2 49 05 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/3a233c4d-5d9e-478f-9998-573876ab552f">
 
 
 ## Tableau
