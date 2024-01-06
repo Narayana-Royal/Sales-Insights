@@ -49,7 +49,9 @@ Few sample screenshots of the queries:
 ## Tableau
 ### Performing ETL Operations
 E - Extracting the database which is in localhost to tableau
+
 T - Transforming the database in tableau (i.e basically cleaning the incorrect data among all the tables in tableau itself)
+
 L - Loading the Transformed data into Tableau for dashboarding.
 
 > Star Schema: It is nothing but main table connected to the peripherals
