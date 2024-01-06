@@ -47,7 +47,7 @@ where year=2020 and market_code="Mark001";
 
 
 ## Tableau
-#### Performing ETL Operations
+### Performing **ETL** Operations
 E - Extracting the database which is in localhost to tableau
 
 T - Transforming the database in tableau (i.e basically cleaning the incorrect data among all the tables in tableau itself)
@@ -55,7 +55,7 @@ T - Transforming the database in tableau (i.e basically cleaning the incorrect d
 L - Loading the Transformed data into Tableau for dashboarding.
 
 > Star Schema: It is nothing but connecting the main table to the peripherals
-#### Screenshot of this database schema after extracting it from mysql server:
+### Steps along with screenshots:
 
 #### Step1: Extracting
 
