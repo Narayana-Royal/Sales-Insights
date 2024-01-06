@@ -41,7 +41,7 @@ The **SQL queries** which are performed in order to get insights from the databa
 > SELECT sum(sales_amount) FROM sales.transactions as t inner join sales.date as d on t.order_date=d.date
 where year=2020 and market_code="Mark001";
 
-Few sample screenshots of the queries: 
+#### Few sample screenshots of the queries: 
 
 <img width="800" height="500" alt="Screenshot 2024-01-06 at 2 49 05 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/3a233c4d-5d9e-478f-9998-573876ab552f">
 
@@ -55,10 +55,10 @@ T - Transforming the database in tableau (i.e basically cleaning the incorrect d
 L - Loading the Transformed data into Tableau for dashboarding.
 
 > Star Schema: It is nothing but connecting the main table to the peripherals
-### Screenshot of this database schema after extracting it from mysql server:
+#### Screenshot of this database schema after extracting it from mysql server:
 
-### Step1: Extracting
+#### Step1: Extracting
 
 <img width="800" height="500" alt="Screenshot 2024-01-06 at 3 59 04 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/398bea4b-dfcc-41d3-9fc2-b8e3a3f7198b">
 
-### Step2: Transforming
+#### Step2: Transforming
