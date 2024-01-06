@@ -38,3 +38,5 @@ The **SQL queries** which are performed in order to get insights from the databa
 9. Query used to Show total revenue in year 2020 in Chennai
 
 > SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
+
+# Get this
