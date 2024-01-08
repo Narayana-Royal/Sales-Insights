@@ -1,5 +1,6 @@
 # Sales-Insights
 ## Files : db_dump.sql - database of tables
+##         Book1.twbx - Tableau Dashboard
 ## SQL 
 
 The **SQL queries** which are performed in order to get insights from the database tables are - 
