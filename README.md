@@ -71,3 +71,11 @@ L - Loading the Transformed data into Tableau for dashboarding.
 
 <img width="1400" alt="Screenshot 2024-01-06 at 4 28 55 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/a78b584f-de4c-422a-a76d-35a6c9aa3a55">
 
+#### Step3: Loading
+
+> Loading the cleaned data to the tableau dashboard, Created a sheets of individual widgets of finding the total revenue and total number of products etc...
+> And then created a dashboard with all of the sheets which was created earlier and combine them into one dashboard with adding filter to it, so that if we toggle and click on one area it gets reflected everywhere inside the dashboard.
+
+<img width="1400" alt="Screenshot 2024-01-08 at 4 03 11 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/1613f531-0998-41e3-b84c-dca05183030f">
+
+> In the above picture you can see there's a sheets of individual widgets and those where combined in a single dashboard and for every year and every month we can view the total revenue and total number of products sold etc..
