@@ -79,3 +79,4 @@ L - Loading the Transformed data into Tableau for dashboarding.
 <img width="1400" alt="Screenshot 2024-01-08 at 4 03 11 PM" src="https://github.com/Narayana-Royal/Sales-Insights/assets/88378136/1613f531-0998-41e3-b84c-dca05183030f">
 
 > In the above picture you can see there's a sheets of individual widgets and those where combined in a single dashboard and for every year and every month we can view the total revenue and total number of products sold etc..
+> Link to the Tableau DashBoard : https://public.tableau.com/app/profile/narayanaroyal.marisetty/viz/Book1_17039998823440/Dashboard1?publish=yes
